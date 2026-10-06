@@ -1,0 +1,7 @@
+[package]
+name = "helloworld_cargo"
+version = "0.1.0"
+authors = ["kale <mjomba.sc@gmail.com>"]
+edition = "2024"
+
+[dependencies]
