@@ -1,4 +1,6 @@
-
+//Exercise 1: convert temperature between fahrenheit to celsius and vice versa//
+//Formula: C = (F - 32) * 5/9
+//Formula: F = (C * 9/5) + 32
 fn main() {
     // Convert Celsius to Fahrenheit
     let celsius = 37.0;
